@@ -1,8 +1,8 @@
 export default function Categories() {
   const categories = [
-    { name: "Chairs", items: "1500+", image: "public/Images/chair.png" },
-    { name: "Sofa", items: "750+", image: "public/images/sofa.png" },
-    { name: "Lighting", items: "450+", image: "public/images/light.png" },
+    { name: "Chairs", items: "1500+", image: "/Images/chair.png" },
+    { name: "Sofa", items: "750+", image: "/images/sofa.png" },
+    { name: "Lighting", items: "450+", image: "/images/light.png" },
   ];
 
   return (
