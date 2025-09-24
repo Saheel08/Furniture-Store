@@ -4,7 +4,7 @@ export default function Navbar() {
       {/* Logo Section */}
       <div className="flex items-center gap-2">
         <img
-          src="public/images/logo.png"
+          src="/images/logo.png"
           alt="Furniture Logo"
           className="h-14 w-14 object-contain"
         />
