@@ -5,7 +5,7 @@ export default function Features() {
         
         {/* Fast Delivery */}
         <div className="flex items-center gap-4 bg-white p-4 rounded-lg shadow-md">
-          <img src="/delivery.png" alt="Fast Delivery" className="h-12 w-12" />
+          <img src="/images/delivery.png" alt="Fast Delivery" className="h-12 w-12" />
           <div>
             <h3 className="text-lg font-semibold">Fast Delivery</h3>
             <p className="text-gray-600 text-sm">Get your furniture quickly and safely.</p>
